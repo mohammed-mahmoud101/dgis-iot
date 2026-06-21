@@ -1,0 +1,29 @@
+base = 207 g
+
+first_arm = 8 g
+first_arm_b = 5 g
+first_arm_bridge = 6 g
+
+side_Arm = 11 g
+side_arm_free = 9 g
+side_arm_bridge = 6 g
+
+leg = 14 g
+leg_free = 13 g
+leg_bridge = 6 g
+
+servo = 56 g
+servo_holder = 2 g
+servo_pillar = 5 g
+
+batteries = 350 g
+battery_base = 28 g
+battery_wall = 5 g
+battery_wall_side = 5 g
+
+mohamadi_holder = 9 g
+mohamadi_pillars = 2 g
+
+screw = 1 g
+
+

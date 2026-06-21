@@ -1,0 +1,10 @@
+# S7S Control Station — Python dependencies
+# Install with:  pip install -r requirements.txt
+#
+# Only the laptop needs Python. The phone runs a native Kotlin app that
+# sends gyro text over USB to the ESP32. The Xbox controller pairs directly
+# to the ESP32 via Bluetooth (Bluepad32) — no pygame needed on the laptop.
+
+paho-mqtt>=1.6,<3.0           # MQTT client — connects to the embedded broker
+amqtt>=0.10.0                 # Pure-Python embedded MQTT broker (no external setup)
+matplotlib>=3.7.0             # Optional: live joint-angle plot in Telemetry tab
