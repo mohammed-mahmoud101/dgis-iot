@@ -1,4 +1,4 @@
-#Quadruped Robot — IoT Subsystem
+# Quadruped Robot — IoT Subsystem
 
 IoT control stack for a 12-servo quadruped robot built around an **ESP32**, **PCA9685** servo driver, and **MQTT**-based communication between a laptop control station, a phone gyro bridge, and a Bluetooth gamepad.
 
